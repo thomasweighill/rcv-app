@@ -1,0 +1,13 @@
+name: rcv-app
+title: rcv-app
+username:
+account: thomasweighill
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2503256
+bundleId: 3497903
+url: https://thomasweighill.shinyapps.io/rcv-app/
+when: 1597076819.89122
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: detailed_6seat_counts.csv|election_rounds_6seats_6candidateseach.csv
